@@ -1,0 +1,16 @@
+#contact-image {
+    height: 400px;
+    width: 100%
+    
+}
+
+#contact-text {
+    font-size: x-large;
+}
+
+.form-group {
+    padding-top: 20px;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+
+}
